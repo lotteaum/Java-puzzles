@@ -7,7 +7,8 @@ import java.math.*;
  * the standard input according to the problem statement.
  **/
  
- /* */
+/* Lien du puzzle : https://www.codingame.com/training/medium/skynet-revolution-episode-1 */
+
 class Player {
 
     public static void main(String args[]) {
