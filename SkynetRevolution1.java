@@ -9,7 +9,7 @@ import java.math.*;
  
 /* Lien du puzzle : https://www.codingame.com/training/medium/skynet-revolution-episode-1 */
 
-class Player {
+class SkynetRevolution1 {
 
     public static void main(String args[]) {
         Scanner in = new Scanner(System.in);
