@@ -9,8 +9,9 @@ import java.math.*;
  * Hint: You can use the debug stream to print initialTX and initialTY, if Thor seems not follow your orders.
  **/
  
- 
-class Player {
+ /* Lien du puzzle : https://www.codingame.com/training/easy/power-of-thor-episode-1 */
+
+class PowerOfThor1 {
 
     public static void main(String args[]) {
         Scanner in = new Scanner(System.in);
