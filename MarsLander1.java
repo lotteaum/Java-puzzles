@@ -6,7 +6,10 @@ import java.math.*;
  * Auto-generated code below aims at helping you parse
  * the standard input according to the problem statement.
  **/
-class Player {
+
+/* Lien du puzzle : https://www.codingame.com/training/easy/mars-lander-episode-1 */
+
+class MarsLander1 {
 
     public static void main(String args[]) {
         Scanner in = new Scanner(System.in);
