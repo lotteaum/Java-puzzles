@@ -7,7 +7,10 @@ import java.lang.*;
  * Auto-generated code below aims at helping you parse
  * the standard input according to the problem statement.
  **/
-class Solution {
+
+/* Lien du puzzle : https://www.codingame.com/training/easy/chuck-norris */
+
+class ChuckNorris {
 
     public static void main(String args[]) {
         Scanner in = new Scanner(System.in);
