@@ -1,6 +1,8 @@
 import java.util.*;
 
-class Player {
+/* Lien du puzzle : https://www.codingame.com/training/easy/onboarding */
+
+class Onboarding {
 
     public static void main(String args[]) {
         Scanner in = new Scanner(System.in);
