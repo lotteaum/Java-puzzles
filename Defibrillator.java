@@ -9,7 +9,7 @@ import java.math.*;
  
  /* Lien du puzzle : https://www.codingame.com/training/easy/defibrillators */
  
-class Solution {
+class Defibrillator {
 
     public static void main(String args[]) {
         Scanner in = new Scanner(System.in);
