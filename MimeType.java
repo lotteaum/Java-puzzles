@@ -6,7 +6,10 @@ import java.math.*;
  * Auto-generated code below aims at helping you parse
  * the standard input according to the problem statement.
  **/
-class Solution {
+
+/* Lien du puzzle : https://www.codingame.com/training/easy/mime-type */
+
+class MimeType {
 
     public static void main(String args[]) {
         Scanner in = new Scanner(System.in);
