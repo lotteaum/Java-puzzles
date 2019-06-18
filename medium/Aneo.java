@@ -7,7 +7,7 @@ import java.math.*;
  * the standard input according to the problem statement.
  **/
 
-/* Lien du puzzle : https://www.codingame.com/ide/puzzle/aneo */
+/* Lien du puzzle : https://www.codingame.com/training/medium/aneo */
 
 class Aneo {
 
